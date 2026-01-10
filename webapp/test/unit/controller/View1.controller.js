@@ -1,7 +1,7 @@
 /*global QUnit*/
 
 sap.ui.define([
-	"sap/btp/helloworldui5/controller/View1.controller"
+	"sap/btp/helloworldsaas/controller/View1.controller"
 ], function (Controller) {
 	"use strict";
 

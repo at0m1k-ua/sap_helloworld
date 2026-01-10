@@ -8,7 +8,7 @@
 |**Template Used**<br>Basic|
 |**Service Type**<br>None|
 |**Service URL**<br>N/A|
-|**Module Name**<br>helloworldui5|
+|**Module Name**<br>helloworldsaas|
 |**Application Title**<br>Hello World App Title|
 |**Namespace**<br>sap.btp|
 |**UI5 Theme**<br>sap_horizon|
@@ -17,7 +17,7 @@
 |**Enable TypeScript**<br>False|
 |**Add Eslint configuration**<br>False|
 
-## helloworldui5
+## helloworldsaas
 
 An SAP Fiori application.
 

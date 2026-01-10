@@ -5,7 +5,7 @@
     "serviceType": "None",
     "metadataFilename": "",
     "serviceUrl": "N/A",
-    "appName": "helloworldui5",
+    "appName": "helloworldsaas",
     "appTitle": "Hello World App Title",
     "appDescription": "An SAP Fiori application.",
     "appNamespace": "sap.btp",

@@ -1,10 +1,10 @@
 sap.ui.define([
     "sap/ui/core/UIComponent",
-    "sap/btp/helloworldui5/model/models"
+    "sap/btp/helloworldsaas/model/models"
 ], (UIComponent, models) => {
     "use strict";
 
-    return UIComponent.extend("sap.btp.helloworldui5.Component", {
+    return UIComponent.extend("sap.btp.helloworldsaas.Component", {
         metadata: {
             manifest: "json",
             interfaces: [

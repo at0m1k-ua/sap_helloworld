@@ -3,7 +3,7 @@ sap.ui.define([
 ], (BaseController) => {
   "use strict";
 
-  return BaseController.extend("sap.btp.helloworldui5.controller.App", {
+  return BaseController.extend("sap.btp.helloworldsaas.controller.App", {
       onInit() {
       }
   });

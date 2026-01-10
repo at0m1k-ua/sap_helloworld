@@ -5,7 +5,7 @@ sap.ui.define([
     /** @param {typeof sap.ui.core.mvc.Controller} Controller */
     function (Controller, MessageBox) {
         "use strict";
-        return Controller.extend("sap.btp.helloworldui5.controller.View1", {
+        return Controller.extend("sap.btp.helloworldsaas.controller.View1", {
             onInit: function () {
             },
             onPress: function () {

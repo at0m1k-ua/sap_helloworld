@@ -14,7 +14,7 @@
       "destination": "ui5"
     }
   ],
-  "welcomeFile": "/sapbtphelloworldui5",
+  "welcomeFile": "/helloworldsaas",
   "whitelistService": {
     "endpoint": "/allowlist/service"
   }

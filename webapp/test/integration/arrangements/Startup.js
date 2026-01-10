@@ -14,7 +14,7 @@ sap.ui.define([
 			// start the app UI component
 			this.iStartMyUIComponent({
 				componentConfig: {
-					name: "sap.btp.helloworldui5",
+					name: "sap.btp.helloworldsaas",
 					async: true
 				},
 				hash: oOptions.hash,

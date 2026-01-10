@@ -1,4 +1,4 @@
-<mvc:View controllerName="sap.btp.helloworldui5.controller.App"
+<mvc:View controllerName="sap.btp.helloworldsaas.controller.App"
     displayBlock="true"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
